@@ -9,7 +9,7 @@ The project is designed as a single-page application, and near JavaScript, I use
 ## $ languages used
 The website was built using the following technologies:
 
-![HTML, CSS, PHP, JavaScript, Vim](https://skillicons.dev/icons?i=html,css,php,javascript,vim)
+![HTML, CSS, PHP, JavaScript, Sublime](https://skillicons.dev/icons?i=html,css,php,javascript,sublime)
 
 
 ## $ license
